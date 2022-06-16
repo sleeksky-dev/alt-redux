@@ -1,5 +1,5 @@
 {
-  "name": "alt-redux",
+  "name": "@sleeksky/alt-redux",
   "version": "1.0.0",
   "description": "Makes creating reducers easier",
   "main": "./lib/index.js",
